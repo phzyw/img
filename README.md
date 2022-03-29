@@ -1,2 +1,2 @@
 # img
-typora+picgo+github 图床
+blog图床
